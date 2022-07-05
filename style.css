@@ -1,0 +1,74 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+}
+
+.header-logo {
+    margin-right: auto;
+    margin-left: 56px;
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+.header-link-one, .header-link-two, .header-link-three {
+    padding: 8px;
+    color: #E5E7EB;
+}
+
+.header-link-three {
+    margin-right: 49px;
+}
+
+.first-card {
+    display: flex;
+    background-color: #1F2937;
+}
+
+.first-card-left {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    margin-left: 56px;
+    margin: 0;
+    padding: 0;
+
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 48px;
+    color: #F9FAF8;
+    margin-left: 56px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.first-card-text {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #E5E7EB;
+    font-size: 18px;
+    margin-left: 56px;
+}
+
+.first-card-image {
+    margin-right: 56px;
+    width: 100%
+}
+
+.sign.up.container {
+    display: flex;
+}
+
+.button {
+    margin-left: 56px;
+    border: none;
+    background-color: #2882F6;
+    color: white;
+    border-radius: 4px;
+    font-weight: bold;
+    padding: 6px 18px;
+}
