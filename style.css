@@ -55,9 +55,9 @@ h1 {
 }
 
 .first-card-image {
-    margin-right: 56px;
-    width: 45%;
+    max-width: 45%;
     height: 45%;
+    border-radius: 8px;
 }
 
 .sign.up.container {
